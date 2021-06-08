@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap%27);');
+.hatter{
+    background-image: url("viztukor.png");
+}
+
+.szin{
+    color: purple;
+}
+
+.belso{
+    background: lightblue;
+}
+
+.szoveg{
+    border: 1px solid;
+    border-radius: 2px;
+    text-align: center;
+    background: white;
+    
+}
